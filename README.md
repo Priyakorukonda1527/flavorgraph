@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Python Application
 ======================
 This is a simple Python application. This application serves as a basic template for a console application using Python.
@@ -17,3 +18,6 @@ You can run the application in one of the following ways:
 This will start the application.
 
 Happy coding! 🙂
+=======
+# flavorgraph
+>>>>>>> 1774c2821294d320d9d4a67b368669e4b41f8f37
